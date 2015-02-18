@@ -1,0 +1,19 @@
+{
+  "name":        "agmakonts/zf2-json-serializable-hydrator",
+  "description": "ZF2 hydrator that allows for use of JsonSerialize method from JsonSerializable interface.",
+  "require":     {
+    "zendframework/zend-stdlib": "~2.3@dev"
+  },
+  "license":     "GNU GPL v2.0",
+  "authors":     [
+    {
+      "name":  "Adam",
+      "email": "adam@grabek.io"
+    }
+  ],
+  "autoload":    {
+    "psr-4": {
+      "AGmakonts": "src/"
+    }
+  }
+}
