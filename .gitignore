@@ -1,0 +1,5 @@
+.idea
+atlassian-ide-plugin.xml
+zf2-JsonSerializableHydrator.iml
+/vendor
+composer.lock
